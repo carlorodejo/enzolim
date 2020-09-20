@@ -1,0 +1,35 @@
+ion-content {
+  background: linear-gradient(to bottom, #c33764, #1d2671);
+}
+
+h4 {
+  font-size: large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #ffffff;
+  text-align:center;
+}
+h5 {
+  font-size:medium;
+}
+
+p {
+  color:#ffffff;
+  text-align: justify;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+ion-chip {
+  color:#ffffff;
+  background:#000000;
+}
+
+ion-icon {
+  color: #ffffff;
+}
+
+ion-title {
+  font-family:fantasy;
+  font-size:xx-large;
+
+}
